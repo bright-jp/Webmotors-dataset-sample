@@ -2,7 +2,7 @@
 
 <h2>1001件のWebmotors掲載情報のサンプルデータセット</h2>
 
-![Webmotors listings dataset header](https://github.com/luminati-io/Webmotors-dataset-sample/blob/main/Webmotors-dataset.png)
+![Webmotors listings dataset header](https://github.com/bright-jp/Webmotors-dataset-sample/blob/main/Webmotors-dataset.png)
 
 1000件以上のレコードを含むWebmotors掲載情報データセットのサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
