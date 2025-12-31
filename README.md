@@ -1,60 +1,59 @@
 # Webmotors-dataset-sample
 
-<h2>A sample dataset of 1001 Webmotors listings</h2>
+<h2>1001件のWebmotors掲載情報のサンプルデータセット</h2>
 
 ![Webmotors listings dataset header](https://github.com/luminati-io/Webmotors-dataset-sample/blob/main/Webmotors-dataset.png)
 
-A Webmotors listings dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
+1000件以上のレコードを含むWebmotors掲載情報データセットのサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
-<h2>Some of the data points that are included in the Webmotors listings dataset:</h2>
+<h2>Webmotors掲載情報データセットに含まれるデータポイントの一部:</h2>
 
-* ```ID_SELLER```: Identifier for the seller  
-* ```id```: Unique identifier for the car listing  
-* ```url```: URL associated with the car listing  
-* ```Tipo```: Type of the car  
-* ```Marca```: Brand or make of the car  
-* ```Modelo```: Model of the car  
-* ```Ano```: Year of manufacture of the car  
-* ```Variante```: Variant or version of the car  
-* ```Kilometraje```: Mileage or distance traveled by the car  
-* ```Color```: Color of the car  
-* ```description```: Description or additional information about the car  
-* ```price```: Price of the car  
-* ```Combustible```: Fuel type used by the car  
-* ```Dueno```: Owner information  
-* ```Tipo_de_vendedor```: Type of seller  
-* ```Currency```: Currency used for pricing  
-* ```create_date```: Date when the listing was created  
-* ```direccion```: Address or location information  
-* ```Comuna```: District or municipality  
-* ```Ciudad```: City where the car is located  
+* ```ID_SELLER```: 販売者の識別子  
+* ```id```: 車両掲載情報の一意の識別子  
+* ```url```: 車両掲載情報に関連付けられたURL  
+* ```Tipo```: 車の種類  
+* ```Marca```: 車のブランドまたはメーカー  
+* ```Modelo```: 車のモデル  
+* ```Ano```: 車の製造年  
+* ```Variante```: 車のバリアントまたはバージョン  
+* ```Kilometraje```: 車の走行距離または走行距離相当  
+* ```Color```: 車の色  
+* ```description```: 車に関する説明または追加情報  
+* ```price```: 車の価格  
+* ```Combustible```: 車に使用される燃料種別  
+* ```Dueno```: オーナー情報  
+* ```Tipo_de_vendedor```: 販売者の種別  
+* ```Currency```: 価格設定に使用される通貨  
+* ```create_date```: 掲載情報が作成された日付  
+* ```direccion```: 住所または所在地情報  
+* ```Comuna```: 地区または自治体  
+* ```Ciudad```: 車が所在する都市  
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Webmotors listings"
-dataset which includes more than <b>2.8M records</b>.
+これは「Webmotors listings」データセットから派生したサンプルのサブセットであり、同データセットには<b>280万件以上のレコード</b>が含まれます。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. 必要に応じて、ファイルは .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセットの配信方法オプション: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント: <b>リクエストに基づきます。</b>
 
-<b>[Get the full Webmotors listings dataset](https://brightdata.com/products/datasets/webmotors)</b>.
+<b>[Webmotors listingsの完全なデータセットを取得する](https://brightdata.jp/products/datasets/webmotors)</b>。
 
-<h2>What are the Webmotors listings datasets use cases?</h2>
+<h2>Webmotors掲載情報データセットのユースケースは何ですか？</h2>
 
-<h3>1. Pricing Strategy</h3>
-Examine car prices by make, model, year, mileage, and location to uncover trends and patterns. Set optimal pricing, adjust based on demand, and identify opportunities for promotions or discounts.
+<h3>1. 価格戦略</h3>
+メーカー、モデル、年式、走行距離、所在地別に車の価格を分析し、トレンドやパターンを把握します。最適な価格を設定し、需要に応じて調整し、プロモーションや割引の機会を特定します。
 
-<h3>2. Product Inventory</h3>
-Determine which cars to stock, the best times to acquire them, and when to sell using car price data. Optimizing inventory and reducing storage costs help businesses avoid holding unsellable vehicles.
+<h3>2. 商品在庫</h3>
+車の価格データを用いて、どの車を在庫として確保するべきか、最適な仕入れ時期、いつ販売するべきかを判断します。在庫の最適化と保管コストの削減により、販売できない車両を抱え込むことを回避できます。
 
-<h3>3. Market Strategy</h3>
-Identify factors that impact car prices to tailor your marketing messages. Customizing your messaging based on these factors can enhance customer engagement, boost sales conversion rates, and increase consumer spending.
+<h3>3. 市場戦略</h3>
+車の価格に影響する要因を特定し、マーケティングメッセージを最適化します。これらの要因に基づいてメッセージをカスタマイズすることで、顧客エンゲージメントの向上、販売コンバージョン率の改善、消費者支出の増加につながります。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会的な活動を推進する主要な学術部門および研究者、NGOおよびNPOに対して、Bright Dataの<b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b>および<b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b>へのアクセスを提供します。申請は<b>[こちら](https://brightinitiative.com)</b>から送信できます。
