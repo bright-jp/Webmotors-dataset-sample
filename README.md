@@ -1,4 +1,4 @@
-# Webmotors-dataset-sample
+# Webmotors データセットサンプル
 
 <h2>1001件のWebmotors掲載情報のサンプルデータセット</h2>
 
